@@ -30,7 +30,7 @@
 ### Краткая информация о данных
 ....
 
-:arrow up:[к оглавлению](https://github.com/9X2U9/sf_data_science/tree/main/SF_DATA_SCIENCE/project_0.README.md#Оглавление)
+:arrow up:[к оглавлению](https://github.com/9X2U9/sf_data_science/tree/main/SF_DATA_SCIENCE/project_0.README.md##Оглавление)
 
 ### Этапы работы над проектом
 
