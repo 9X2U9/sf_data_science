@@ -2,7 +2,7 @@
 
 ## Оглавление
 
-* [1. Описание проекта](https://github.com/9X2U9/sf_data_science/blob/main/SF_DATA_SCIENCE/project_1/README.md#Описание-проекта)
+* [1. Описание проекта](https://github.com/9X2U9/sf_data_science/tree/main/SF_DATA_SCIENCE/project_1/README.md#Описание-проекта)
 * [2. Какой кейс решаем](https://github.com/9X2U9/sf_data_science/tree/main/SF_DATA_SCIENCE/project_1.README.md#Какой-кейс-решаем)
 * [3. Краткая информация о данных](https://github.com/9X2U9/sf_data_science/tree/main/SF_DATA_SCIENCE/project_1.README.md#Краткая-информация-о-данных)
 * [4. Этапы работы над проектом](https://github.com/9X2U9/sf_data_science/tree/main/SF_DATA_SCIENCE/project_1.README.md#Этапы-работы-над-проектом)
@@ -31,3 +31,23 @@
 ....
 
 :arrow up:[к оглавлению](https://github.com/9X2U9/sf_data_science/tree/main/SF_DATA_SCIENCE/project_0.README.md#Оглавление)
+
+### Этапы работы над проектом
+
+....
+
+:arrow up:[к оглавлению](https://github.com/9X2U9/sf_data_science/tree/main/SF_DATA_SCIENCE/project_0.README.md#Оглавление)
+
+### Результат
+
+....
+
+:arrow up:[к оглавлению](https://github.com/9X2U9/sf_data_science/tree/main/SF_DATA_SCIENCE/project_0.README.md#Оглавление)
+
+### Выводы
+
+....
+
+:arrow up:[к оглавлению](https://github.com/9X2U9/sf_data_science/tree/main/SF_DATA_SCIENCE/project_0.README.md#Оглавление)
+
+Если информация по этому проекту покажется Вам интересной или полезной, то я буду очень благодарна Вам, если отметите репозиторий и профиль звездами)
